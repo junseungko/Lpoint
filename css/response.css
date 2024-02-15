@@ -1,0 +1,19 @@
+@media screen and (max-width:768px){
+  .ham{
+    display: inherit;
+  }
+  #title{
+    
+  min-height: auto;
+  }
+  header div.wrap ul.gnb{
+    display: none;
+  }
+  header div.wrap ul.lang{
+    display: none;
+  }
+  #title .wrap p span{
+    
+  display: block;
+  }
+}
